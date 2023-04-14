@@ -1,6 +1,3 @@
-//Moiz Akhtar
-//21I-1104
-
 #include <iostream>
 #include <fstream>
 #include<conio.h>
